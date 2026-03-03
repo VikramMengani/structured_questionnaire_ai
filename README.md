@@ -187,8 +187,6 @@ Persistent storage ensures repeatability and structured data management.
 ---
 
 ## 📂 Project Structure
-
-
 structured-questionnaire-ai/
 │
 ├── app/
