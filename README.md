@@ -8,7 +8,6 @@ AI-Powered Vendor & Compliance Questionnaire Automation System
 This project is an end-to-end AI-powered Structured Questionnaire Answering Tool designed to automate vendor security and compliance questionnaires using grounded reference documentation.
 
 The system enables users to:
-
 - Authenticate securely  
 - Upload structured questionnaires  
 - Retrieve answers from internal reference documents  
