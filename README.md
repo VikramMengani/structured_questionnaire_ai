@@ -65,30 +65,28 @@ An end-to-end system that includes:
 ---
 
 ## 🧠 System Architecture
-
-
 User
-↓
+  ↓
 Login / Signup
-↓
+  ↓
 Upload Questionnaire
-↓
+  ↓
 Store Questions in Database
-↓
+  ↓
 Load Reference Documents
-↓
+  ↓
 Vectorize (TF-IDF)
-↓
+  ↓
 Index using FAISS
-↓
+  ↓
 Retrieve Most Relevant Chunk
-↓
+  ↓
 Extract Best Sentence
-↓
+  ↓
 Store Answer + Citation + Confidence
-↓
+  ↓
 Review & Edit
-↓
+  ↓
 Export Structured DOCX
 
 
@@ -194,11 +192,11 @@ Persistent storage ensures repeatability and structured data management.
 structured-questionnaire-ai/
 │
 ├── app/
-│ ├── main.py
-│ ├── database.py
-│ ├── models.py
-│ ├── auth.py
-│ ├── rag.py
+│   ├── main.py
+│   ├── database.py
+│   ├── models.py
+│   ├── auth.py
+│   ├── rag.py
 │
 ├── references/
 ├── uploads/
