@@ -65,6 +65,7 @@ An end-to-end system that includes:
 ---
 
 ## 🧠 System Architecture
+
 User
   ↓
 Login / Signup
@@ -88,7 +89,6 @@ Store Answer + Citation + Confidence
 Review & Edit
   ↓
 Export Structured DOCX
-
 
 ---
 
@@ -187,6 +187,7 @@ Persistent storage ensures repeatability and structured data management.
 ---
 
 ## 📂 Project Structure
+
 structured-questionnaire-ai/
 │
 ├── app/
@@ -202,7 +203,6 @@ structured-questionnaire-ai/
 ├── requirements.txt
 ├── .gitignore
 └── README.md
-
 
 ---
 
