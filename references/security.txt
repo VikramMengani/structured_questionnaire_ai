@@ -1,0 +1,3 @@
+All data at rest is encrypted using AES-256.
+Multi-factor authentication is enforced for all administrators.
+Quarterly vulnerability scans are conducted.
